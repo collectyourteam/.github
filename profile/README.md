@@ -28,6 +28,8 @@ and many more
 
 ## Screenshots
 
+View current pages on [Figma](https://www.figma.com/design/nMhvKxT1XX3mgUi8WzdTS2/Team-Management-App?node-id=0-1&t=5W1QyGFhg99sz37u-1)
+
 ![planned layout](https://cdn.discordapp.com/attachments/902487677830578176/1267495204563324958/Desktop_View_New.png?ex=66b0e765&is=66af95e5&hm=8f4954400f506c26cdfbedab6bf1b34487aa094b4db9256d429a6c4957650aca&)
 
 
